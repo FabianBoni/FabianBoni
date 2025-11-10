@@ -59,8 +59,8 @@ These are the tools and technologies I use to turn data into products:
 These stats showcase my dedication to code and continuous learning.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianBoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianBoni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -69,4 +69,4 @@ These stats showcase my dedication to code and continuous learning.
 
 I'm always open to exciting collaborations, advisory roles, or just a data-driven coffee chat about the next big thing.
 
-📩 **Reach me at: [info.fabianboni@gmail.com]**
+📩 **Reach me at: info.fabianboni@gmail.com**
