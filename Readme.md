@@ -56,7 +56,7 @@ These are the tools and technologies I use to turn data into products:
 
 ### 📊 My GitHub Activity
 
-These stats showcase my dedication to code and continuous learning.
+These stats showcase my dedication to code and continuous learning (only public repos).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FabianBoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
